@@ -1,0 +1,24 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_hoe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/lapis_hoe"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/redstone_hoe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bihoe"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/blaphoe"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bredhoe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/baihoe"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/balaphoe"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/baredhoe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blihoe"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/bllaphoe"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/blredhoe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/enihoe"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enlaphoe"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/enredhoe"}
+		
+	]
+}

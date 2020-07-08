@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_axe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/lapis_axe"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/redstone_axe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/biaxe"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/blapaxe"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bredaxe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/baiaxe"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/balapaxe"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/baredaxe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/bliaxe"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/bllapaxe"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/blredaxe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/eniaxe"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enlapaxe"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/enredaxe"}
+	]
+}

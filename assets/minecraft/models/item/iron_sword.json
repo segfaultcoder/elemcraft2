@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/lapis_sword"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/redstone_sword"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bisword"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/blapsword"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bredsword"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/baisword"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/balapsword"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/baredsword"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blisword"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/bllapsword"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/blredsword"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/enisword"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enlapsword"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/enredsword"}
+	]
+}

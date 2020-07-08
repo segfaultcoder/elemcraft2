@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_chestplate"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574001}, "model": "mcr_more_equipment:item/redstone_chestplate"},
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/lapis_chestplate"}
+	]
+}

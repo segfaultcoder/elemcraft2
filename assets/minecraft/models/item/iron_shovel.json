@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_shovel"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/lapis_shovel"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/redstone_shovel"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bishovel"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/blapshovel"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bredshovel"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/baishovel"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/balapshovel"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/baredshovel"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blishovel"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/bllapshovel"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/blredshovel"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/enishovel"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enlapshovel"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/enredshovel"}
+	]
+}

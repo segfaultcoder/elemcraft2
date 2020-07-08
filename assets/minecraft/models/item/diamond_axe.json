@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/emerald_axe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bdaxe"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/bemeaxe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/badaxe"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/baemeaxe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/bldaxe"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/blemeaxe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/endaxe"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enemeaxe"}
+	]
+}

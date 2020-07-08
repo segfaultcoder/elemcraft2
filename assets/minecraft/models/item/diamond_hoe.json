@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/emerald_hoe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bdhoe"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/bemehoe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/badhoe"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/baemehoe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/bldhoe"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/blemehoe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/endhoe"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enemehoe"}
+	]
+}

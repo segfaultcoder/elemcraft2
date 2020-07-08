@@ -1,0 +1,48 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_shovel"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/andesite_shovel"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/diorite_shovel"},
+		{"predicate": {"custom_model_data": 13574004}, "model": "mcr_more_equipment:item/granite_shovel"},
+		{"predicate": {"custom_model_data": 13574005}, "model": "mcr_more_equipment:item/nether_shovel"},
+		{"predicate": {"custom_model_data": 13574006}, "model": "mcr_more_equipment:item/prismarine_shovel"},
+		{"predicate": {"custom_model_data": 13574007}, "model": "mcr_more_equipment:item/mossy_shovel"},
+		{"predicate": {"custom_model_data": 13574008}, "model": "mcr_more_equipment:item/black_shovel"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bsshovel"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/bandshovel"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bdioshovel"},
+		{"predicate": {"custom_model_data": 13574104}, "model": "mcr_better_handles:item/bgrashovel"},
+		{"predicate": {"custom_model_data": 13574105}, "model": "mcr_better_handles:item/bnetshovel"},
+		{"predicate": {"custom_model_data": 13574106}, "model": "mcr_better_handles:item/bprishovel"},
+		{"predicate": {"custom_model_data": 13574107}, "model": "mcr_better_handles:item/bmosshovel"},
+		{"predicate": {"custom_model_data": 13574108}, "model": "mcr_better_handles:item/bblashovel"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/basshovel"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/baandshovel"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/badioshovel"},
+		{"predicate": {"custom_model_data": 13574204}, "model": "mcr_better_handles:item/bagrashovel"},
+		{"predicate": {"custom_model_data": 13574205}, "model": "mcr_better_handles:item/banetshovel"},
+		{"predicate": {"custom_model_data": 13574206}, "model": "mcr_better_handles:item/baprishovel"},
+		{"predicate": {"custom_model_data": 13574207}, "model": "mcr_better_handles:item/bamosshovel"},
+		{"predicate": {"custom_model_data": 13574208}, "model": "mcr_better_handles:item/bablashovel"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blsshovel"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/blandshovel"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/bldioshovel"},
+		{"predicate": {"custom_model_data": 13574304}, "model": "mcr_better_handles:item/blgrashovel"},
+		{"predicate": {"custom_model_data": 13574305}, "model": "mcr_better_handles:item/blnetshovel"},
+		{"predicate": {"custom_model_data": 13574306}, "model": "mcr_better_handles:item/blprishovel"},
+		{"predicate": {"custom_model_data": 13574307}, "model": "mcr_better_handles:item/blmosshovel"},
+		{"predicate": {"custom_model_data": 13574308}, "model": "mcr_better_handles:item/blblashovel"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/ensshovel"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enandshovel"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/endioshovel"},
+		{"predicate": {"custom_model_data": 13574404}, "model": "mcr_better_handles:item/engrashovel"},
+		{"predicate": {"custom_model_data": 13574405}, "model": "mcr_better_handles:item/ennetshovel"},
+		{"predicate": {"custom_model_data": 13574406}, "model": "mcr_better_handles:item/enprishovel"},
+		{"predicate": {"custom_model_data": 13574407}, "model": "mcr_better_handles:item/enmosshovel"},
+		{"predicate": {"custom_model_data": 13574408}, "model": "mcr_better_handles:item/enblashovel"}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "mcr_more_equipment:item/nether_axe",
+		"particle": "mcr_more_equipment:item/nether_axe"
+	}
+}

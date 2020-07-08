@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "mcr_more_equipment:item/oak_pickaxe",
+		"particle": "mcr_more_equipment:item/oak_pickaxe"
+	}
+}

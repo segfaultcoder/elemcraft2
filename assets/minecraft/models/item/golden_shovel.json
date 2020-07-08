@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_shovel"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bgshovel"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/bagshovel"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blgshovel"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/engshovel"}
+	]
+}

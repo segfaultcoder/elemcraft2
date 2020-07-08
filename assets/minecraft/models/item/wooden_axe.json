@@ -1,0 +1,48 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_axe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/acacia_axe"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/birch_axe"},
+		{"predicate": {"custom_model_data": 13574004}, "model": "mcr_more_equipment:item/dark_axe"},
+		{"predicate": {"custom_model_data": 13574005}, "model": "mcr_more_equipment:item/jungle_axe"},
+		{"predicate": {"custom_model_data": 13574006}, "model": "mcr_more_equipment:item/oak_axe"},
+		{"predicate": {"custom_model_data": 13574007}, "model": "mcr_more_equipment:item/crimson_axe"},
+		{"predicate": {"custom_model_data": 13574008}, "model": "mcr_more_equipment:item/warped_axe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bwaxe"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/bacaaxe"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bbiraxe"},
+		{"predicate": {"custom_model_data": 13574104}, "model": "mcr_better_handles:item/bdaraxe"},
+		{"predicate": {"custom_model_data": 13574105}, "model": "mcr_better_handles:item/bjunaxe"},
+		{"predicate": {"custom_model_data": 13574106}, "model": "mcr_better_handles:item/boakaxe"},
+		{"predicate": {"custom_model_data": 13574107}, "model": "mcr_better_handles:item/bcriaxe"},
+		{"predicate": {"custom_model_data": 13574108}, "model": "mcr_better_handles:item/bwaraxe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/bawaxe"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/baacaaxe"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/babiraxe"},
+		{"predicate": {"custom_model_data": 13574204}, "model": "mcr_better_handles:item/badaraxe"},
+		{"predicate": {"custom_model_data": 13574205}, "model": "mcr_better_handles:item/bajunaxe"},
+		{"predicate": {"custom_model_data": 13574206}, "model": "mcr_better_handles:item/baoakaxe"},
+		{"predicate": {"custom_model_data": 13574207}, "model": "mcr_better_handles:item/bacriaxe"},
+		{"predicate": {"custom_model_data": 13574208}, "model": "mcr_better_handles:item/bawaraxe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blwaxe"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/blacaaxe"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/blbiraxe"},
+		{"predicate": {"custom_model_data": 13574304}, "model": "mcr_better_handles:item/bldaraxe"},
+		{"predicate": {"custom_model_data": 13574305}, "model": "mcr_better_handles:item/bljunaxe"},
+		{"predicate": {"custom_model_data": 13574306}, "model": "mcr_better_handles:item/bloakaxe"},
+		{"predicate": {"custom_model_data": 13574307}, "model": "mcr_better_handles:item/blcriaxe"},
+		{"predicate": {"custom_model_data": 13574308}, "model": "mcr_better_handles:item/blwaraxe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/enwaxe"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enacaaxe"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/enbiraxe"},
+		{"predicate": {"custom_model_data": 13574404}, "model": "mcr_better_handles:item/endaraxe"},
+		{"predicate": {"custom_model_data": 13574405}, "model": "mcr_better_handles:item/enjunaxe"},
+		{"predicate": {"custom_model_data": 13574406}, "model": "mcr_better_handles:item/enoakaxe"},
+		{"predicate": {"custom_model_data": 13574407}, "model": "mcr_better_handles:item/encriaxe"},
+		{"predicate": {"custom_model_data": 13574408}, "model": "mcr_better_handles:item/enwaraxe"}
+	]
+}

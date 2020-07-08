@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_pickaxe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/lapis_pickaxe"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/redstone_pickaxe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bipickaxe"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/blappickaxe"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bredpickaxe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/baipickaxe"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/balappickaxe"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/baredpickaxe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blipickaxe"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/bllappickaxe"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/blredpickaxe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/enipickaxe"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enlappickaxe"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/enredpickaxe"}
+	]
+}

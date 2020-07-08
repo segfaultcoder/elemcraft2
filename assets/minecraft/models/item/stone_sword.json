@@ -1,0 +1,48 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_sword"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/andesite_sword"},
+		{"predicate": {"custom_model_data": 13574003}, "model": "mcr_more_equipment:item/diorite_sword"},
+		{"predicate": {"custom_model_data": 13574004}, "model": "mcr_more_equipment:item/granite_sword"},
+		{"predicate": {"custom_model_data": 13574005}, "model": "mcr_more_equipment:item/nether_sword"},
+		{"predicate": {"custom_model_data": 13574006}, "model": "mcr_more_equipment:item/prismarine_sword"},
+		{"predicate": {"custom_model_data": 13574007}, "model": "mcr_more_equipment:item/mossy_sword"},
+		{"predicate": {"custom_model_data": 13574008}, "model": "mcr_more_equipment:item/black_sword"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bssword"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/bandsword"},
+		{"predicate": {"custom_model_data": 13574103}, "model": "mcr_better_handles:item/bdiosword"},
+		{"predicate": {"custom_model_data": 13574104}, "model": "mcr_better_handles:item/bgrasword"},
+		{"predicate": {"custom_model_data": 13574105}, "model": "mcr_better_handles:item/bnetsword"},
+		{"predicate": {"custom_model_data": 13574106}, "model": "mcr_better_handles:item/bprisword"},
+		{"predicate": {"custom_model_data": 13574107}, "model": "mcr_better_handles:item/bmossword"},
+		{"predicate": {"custom_model_data": 13574108}, "model": "mcr_better_handles:item/bblasword"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/bassword"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/baandsword"},
+		{"predicate": {"custom_model_data": 13574203}, "model": "mcr_better_handles:item/badiosword"},
+		{"predicate": {"custom_model_data": 13574204}, "model": "mcr_better_handles:item/bagrasword"},
+		{"predicate": {"custom_model_data": 13574205}, "model": "mcr_better_handles:item/banetsword"},
+		{"predicate": {"custom_model_data": 13574206}, "model": "mcr_better_handles:item/baprisword"},
+		{"predicate": {"custom_model_data": 13574207}, "model": "mcr_better_handles:item/bamossword"},
+		{"predicate": {"custom_model_data": 13574208}, "model": "mcr_better_handles:item/bablasword"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/blssword"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/blandsword"},
+		{"predicate": {"custom_model_data": 13574303}, "model": "mcr_better_handles:item/bldiosword"},
+		{"predicate": {"custom_model_data": 13574304}, "model": "mcr_better_handles:item/blgrasword"},
+		{"predicate": {"custom_model_data": 13574305}, "model": "mcr_better_handles:item/blnetsword"},
+		{"predicate": {"custom_model_data": 13574306}, "model": "mcr_better_handles:item/blprisword"},
+		{"predicate": {"custom_model_data": 13574307}, "model": "mcr_better_handles:item/blmossword"},
+		{"predicate": {"custom_model_data": 13574308}, "model": "mcr_better_handles:item/blblasword"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/enssword"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enandsword"},
+		{"predicate": {"custom_model_data": 13574403}, "model": "mcr_better_handles:item/endiosword"},
+		{"predicate": {"custom_model_data": 13574404}, "model": "mcr_better_handles:item/engrasword"},
+		{"predicate": {"custom_model_data": 13574405}, "model": "mcr_better_handles:item/ennetsword"},
+		{"predicate": {"custom_model_data": 13574406}, "model": "mcr_better_handles:item/enprisword"},
+		{"predicate": {"custom_model_data": 13574407}, "model": "mcr_better_handles:item/enmossword"},
+		{"predicate": {"custom_model_data": 13574408}, "model": "mcr_better_handles:item/enblasword"}
+	]
+}

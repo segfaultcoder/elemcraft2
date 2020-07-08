@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_pickaxe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/emerald_pickaxe"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bdpickaxe"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/bemepickaxe"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/badpickaxe"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/baemepickaxe"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/bldpickaxe"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/blemepickaxe"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/endpickaxe"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enemepickaxe"}
+	]
+}

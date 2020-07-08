@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_axe"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574107}, "model": "mcr_better_handles:item/bnaxe"},
+		{"predicate": {"custom_model_data": 13574207}, "model": "mcr_better_handles:item/banaxe"},
+		{"predicate": {"custom_model_data": 13574307}, "model": "mcr_better_handles:item/blnaxe"},
+		{"predicate": {"custom_model_data": 13574407}, "model": "mcr_better_handles:item/ennaxe"}
+	]
+}

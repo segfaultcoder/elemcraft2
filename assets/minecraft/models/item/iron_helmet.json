@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_helmet"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574001}, "model": "mcr_more_equipment:item/redstone_helmet"},
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/lapis_helmet"}
+	]
+}

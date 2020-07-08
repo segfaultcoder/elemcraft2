@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 13574002}, "model": "mcr_more_equipment:item/emerald_sword"},
+		{"predicate": {"custom_model_data": 13574101}, "model": "mcr_better_handles:item/bdsword"},
+		{"predicate": {"custom_model_data": 13574102}, "model": "mcr_better_handles:item/bemesword"},
+		{"predicate": {"custom_model_data": 13574201}, "model": "mcr_better_handles:item/badsword"},
+		{"predicate": {"custom_model_data": 13574202}, "model": "mcr_better_handles:item/baemesword"},
+		{"predicate": {"custom_model_data": 13574301}, "model": "mcr_better_handles:item/bldsword"},
+		{"predicate": {"custom_model_data": 13574302}, "model": "mcr_better_handles:item/blemesword"},
+		{"predicate": {"custom_model_data": 13574401}, "model": "mcr_better_handles:item/endsword"},
+		{"predicate": {"custom_model_data": 13574402}, "model": "mcr_better_handles:item/enemesword"}
+	]
+}
